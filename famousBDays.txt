@@ -1,0 +1,411 @@
+1895,1,1
+J. Edgar Hoover
+First director of the FBI
+1892,1,3
+J. R. R. Tolkien
+Author of "Lord of the Rings"
+1642,1,4
+Issac Newton
+Formulated the 3 laws of motion
+1946,1,5
+Diane Keaton
+Played as Kay Adams in The Godfather
+1964,1,7
+Nicolas Cage
+Played as Dr. Stanley Goodspeed in The Rock
+1935,1,8
+Elvis Presley
+King of Rock 'n Roll
+1945,1,10
+Rod Stewart
+Performed Sailing
+1964,1,12
+Jeff Bezos
+Founder and CEO of amazon.com
+1968,1,14
+LL Cool J
+Played as Sam Hanna in NCIS Los Angeles
+1929,1,15
+Martin Luther King Jr.
+Civil rights activist, gave the "I have a dream" speech in 1963
+1706,1,17
+Benjamin Franklin
+One of the Founding Fathers of the US, face on a few US currencies
+1946,1,19
+Dolly Parton
+Composed I Will Always Love You
+1930,1,20
+Edwin Buzz Adrian
+One of the first astronauts who landed and walked on moon
+1737,1,23
+John Hancock
+First to sign the Declaration of Independence
+1756,1,27
+Wolfgang Amadeus Mozart
+One of the greatest composers
+1954,1,29
+Oprah Winfrey
+Famous American talk show host
+1906,2,4
+Clyde Tombaugh
+Astronomer who discovered Pluto in 1930
+1812,2,7
+Charles Dickens
+Author of A Christmas Caorl and Oliver Twist
+1950,2,10
+Mark Spitz
+Won 7 gold medals in swimming at the 1972 Summer Olympics
+1847,2,11
+Thomas Alva Edison
+Inventor of the light bulb
+1809,2,12
+Abraham Lincoln
+16th US President
+1859,2,14
+George Washington Gale Ferris Jr.
+Invented the Ferris Wheel
+1963,2,17
+Michael Jordan
+One of the greatest NBA players
+1745,2,18
+Alessandro Volta
+Inventor of the electric battery and discoverer of methane
+1988,2,20
+Rihanna
+Performed Diamonds
+1685,2,23
+George Frederic Handel
+Composer of the Hallelujah Chorus
+1955,2,24
+Steve Jobs
+Co-founder of Apple Computer
+1802,2,26
+Victor Hugo
+Author of Les Miserables
+1994,3,1
+Justin Bieber
+Performed Baby, Sorry
+1968,3,2
+Daniel Craig
+Played as James Bond 5 times
+1847,3,3
+Alexander Graham Bell
+Inventor of the telephone
+1475,3,6
+Michelangelo
+Sculpted the David marble sculpture and painted the ceiling of the Sistine Chapel
+1934,3,9
+Yuri Gagarin
+First man in space
+1879,3,14
+Albert Einstein
+One of the greatest physicists of all time, developed the theory of relativity
+1951,3,17
+Kurt Russell
+Played as Mr. Nobody in The Fast and the Furious
+1955,3,19
+Bruce Willis
+Played as John McClane in Die Hard
+1976,3,22
+Reese Witherspoon
+Played as Elle Woods in Legally Blonde
+1874,3,24
+Harry Houdini
+Famous magician, best known for escape acts
+1947,3,25
+Elton John
+Has a biopic about his life called Rocketman
+1931,3,26
+Leonard Nimoy
+Played as Spock in Star Trek
+1845,3,27
+Wilhelm Roentgen
+Discovered X-rays
+1962,3,30
+Vincent van Gogh
+Painted the Sunflowers
+1483,4,6
+Raphael
+Painted the Portrait of Baldassare Castiglione
+1947,4,12
+Tom Clancy
+Author of The Hunt for Red October, inspired the game The Division
+1899,4,13
+Alfred Mosher Butts
+Invented Scrabble
+1452,4,15
+Leonardo da Vinci
+Painted Mona Lisa
+1889,4,16
+Charlie Chaplin
+Best known for his comedic silent acts
+1782,4,21
+Friedrich Froebel
+Started the first Kindergarten in 1837
+1564,4,23
+William Shakespeare
+The greatest writer in the English language, created Romeo and Juliet
+1981,4,30
+Kunal Nayyar
+Played as Raj Koothrappali in Big Bang Theory
+1988,5,5
+Adele
+Performed Rolling in the Deep
+1856,5,6
+Robert Edwin Peary Sr.
+First person to reach the North Pole
+1840,5,7
+Pyotr Ilyich Tchaikovsky
+Composed the 1812 Overture
+1960,5,10
+Bono
+Memeber of U2
+1964,5,13
+Stephen Colbert
+Host of The Daily Show
+1944,5,14
+George Lucas
+Created Star Wars
+1953,5,16
+Pierce Brosnan
+Played as James Bond 5 times
+1984,5,26
+Sally Ride
+First woman in space in 1983
+1917,5,29
+John F. Kennedy
+35th US President
+1976,5,31
+Colin Farrell
+Played as Danny Witwer in Minority Report
+1892,6,6
+Donald F. Duncan Sr.
+Created the Duncan Yo-Yo
+1952,6,7
+Liam Neeson
+Played as Bryan Mills in Taken
+1963,6,9
+Johnny Depp
+Played as Jack Sparrow in Pirates of the Caribbean
+1974,6,15
+Neil Patrick Harris
+Played as Barney Stinson in How I Met Your Mother
+1967,6,20
+Nicole Kidman
+Played as Atlanna in Aquaman
+1964,6,22
+Dan Brown
+Author of The DaVinci Code
+1910,6,26
+Roy Plunkett
+Invented Teflon
+1971,6,28
+Elon Musk
+CEO of Tesla, Inc.
+1985,6,30
+Michael Phelps
+Won 8 gold medals in swimming at the 2008 Summer Olympics
+1932,7,2
+Dave Thomas
+Founded Wendy's
+1962,7,3
+Tom Cruise
+Played as Ethan Hunt in Mission Impossible
+1946,7,6
+Sylvester Stallone
+Played as Robert Balboa in Rocky
+1831,7,8
+John Pemberton
+Invented Coca-Cola
+1956,7,9
+Tom Hanks
+Played as Forest Gump in Forest Gump
+1944,7,13
+Erno Rubik
+Inventor of Rubik's Cube
+1952,7,17
+David Hasselhoff
+Played as Michael Knight in Knight Rider
+1918,7,18
+Nelson Mandela
+Winner of The Nobel Peace Prize 1993
+1919,7,20
+Sir Edmund Hillary
+First person to reach the peak of Mount Everest
+1899,7,21
+Ernest Hemingway
+Winner of The Nobel Literature Price 1954
+1989,7,23
+Daniel Radcliffe
+Played as Harry Potter in Harry Potter movies
+1970,7,24
+Jennifer Lopez
+Performed If You Had My Love
+1967,7,25
+Matt LeBlanc
+Played as Joey Tribbiani in Friends
+1943,7,26
+Mick Jagger
+Lead singer of the Rolling Stones
+1945,7,28
+Jim Davis
+Created Garfield
+1972,7,29
+Wil Wheaton
+Played as a fictional version of himself in The Big Bang Theory
+1947,7,30
+Arnold Schwarzenegger
+Played as The Terminator in Terminator movies
+1965,7,31
+J. K. Rowling
+Author of Harry Potter
+1961,8,4
+Barack Obama
+44th US President
+1930,8,5
+Neil Armstrong
+First person to walk on the moon
+1975,8,7
+Charlize Theron
+Played as Cipher in Fast & Furious 9
+1963,8,9
+Whitney Houston
+Performed I Will Always Love You
+1950,8,11
+Stephen Wozniak
+Co-founder of Apple Computer
+1899,8,13
+Alfred Hitchcock
+The Master of Suspense
+1769,8,15
+Napoleon
+Emperor of the French from 1804 until 1814 and again in 1815
+1954,8,18
+Patrick Swayze
+Played as Johnny Castle in Dirty Dancing
+1921,8,19
+Gene Roddenberry
+Created Star Trek
+1978,8,23
+Kobe Bryant
+One of the greatest basketball players of all time
+1930,8,25
+Sean Connery
+Played as Captain John Patrick Mason in The Rock
+1910,8,27
+Mother Teresa
+Winner of The Nobel Peace Prize 1979
+1958,8,29
+Michael Jackson
+The King of Pop
+1964,9,2
+Keanu Reeves
+Played as Neo in The Matrix movies
+1956,9,16
+David Copperfield
+Made the Statue of Liberty disappear in his magic show
+1929,9,19
+Adam West
+Played as Batman in the Batman TV series
+1866,9,21
+H. G. Wells
+Author of The Time Machine
+1936,9,24
+Jim Henson
+Creator of the Muppets
+1951,9,25
+Mark Hamill
+Played as Luke Skywalker in Star Wars
+1924,10,1
+Jimmy Carter
+39th US President
+1902,10,5
+Ray Kroc
+Founder of McDonald's
+1846,10,6
+George Westinghouse
+Developed AC electric power
+1931,10,7
+Desmond Tutu
+Winner of the Noble Peace Price 1984
+1985,10,8
+Bruno Mars
+Performed Just the Way You Are
+1940,10,9
+John Lennon
+Member of the Beatles
+1957,10,13
+Chris Carter
+Creator of The X-Files
+1927,10,14
+Roger Moore
+Played as James Bond 7 times
+1960,10,18
+Jean-Claude Van Damme
+Played as Jean Vilain in The Expendables 2
+1833,10,21
+Alfred Nobel
+Established The Nobel Prizes
+1942,10,23
+Michael Crichton
+Writer of Jurrasic Park
+1881,10,25
+Pablo Picasso
+Greatest artist of the 20th century
+1955,10,28
+Bill Gates
+Co-founder of Microsoft
+1922,11,8
+Christian Barnard
+Performed the first heart transplant in 1967
+1974,11,11
+Leonardo DiCaprio
+Played as Jack Dawson in Titanic
+1967,11,12
+David Schwimmer
+Played as Ross Geller in Friends
+1765,11,14
+Robert Fulton
+Inventor of the steamboat
+1968,11,18
+Owen Wilson
+Played as Mobius M. Mobius in Loki TV series
+1961,11,19
+Meg Ryan
+Played as Annie Reed in Sleepless in Seattle
+1889,11,20
+Edwin Hubble
+Has a space telescope named in his honor
+1984,11,22
+Scarlett Johansson
+Played as Black Widow in the Marvel Cinematic Universe
+1967,12,2
+Lucy Liu
+Played as Dr. Joan Watson in Elementary TV series
+1996,12,11
+Hailee Steinfeld
+Played as Kate Bishop in Hawkeye TV series
+1989,12,13
+Taylor Swift
+Performed Love Story and You Belong with Me
+1832,12,15
+Alexandre Gustave Eiffel
+Designed the Eiffel Tower
+1964,12,18
+Brad Pitt
+Played as Tyler Durden in Fight Club
+1980,12,19
+Jake Gyllenhaal
+Played as Mysterio in Spider-Man: Far From Home
+1821,12,25
+Clara Barton
+Founder of the American Red Cross
+1954,12,28
+Denzel Washington
+Played as Robert McCall in The Equalizer
+1984,12,30
+LeBron James
+One of the greatest NBA basketball players
+1977,12,31
+Psy
+Performed Gangnam Style
